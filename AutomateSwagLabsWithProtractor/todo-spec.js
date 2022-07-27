@@ -1,4 +1,4 @@
-// to start server : webdriver-manager start   and to run conf file : protractor conf.js
+// to start server : 'webdriver-manager start' and for update driver : 'webdriver-manager update'  and to run conf file : 'protractor conf.js'
 describe('End2End swag labs web application with protractor', function () {
   it('should app start and login correctly', function () {
     //this code for non-angualr web application
